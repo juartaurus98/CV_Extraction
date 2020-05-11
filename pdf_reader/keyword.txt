@@ -1,0 +1,116 @@
+﻿
+
+Profile
+thông tin liên hệ
+thông tin cơ bản
+profile
+personal details
+personal information
+thông tin cá nhân
+thông tin liên lạc
+contact information
+contact
+thông tin
+
+Edu
+học vấn
+education
+trình độ học vấn
+giáo dục
+qualification
+học tập
+trình độ bằng cấp
+study background
+academia
+
+Exp
+kinh nghiệm làm việc
+kinh nghiệm làm việc :
+work experiences
+kinh nghiệm
+employment history
+experience
+quá trình làm việc
+working history
+work history
+employment history
+work experience
+career experiences
+
+Skill
+kỹ năng
+skill
+các kỹ năng
+skills
+kỹ năng chuyên ngành
+kĩ năng chuyên môn
+kĩ năng
+technical skill
+kỹ năng làm việc
+kĩ năng mềm
+kỹ năng mềm
+qualification & skills
+kỹ năng & phẩm chất làm việc
+technical skill
+kỹ năng tin học
+
+Objective
+mục tiêu
+mục tiêu nghề nghiệp
+objective
+
+Reference
+tham chiếu
+reference
+references
+người tham chiếu
+người xác nhận
+người tham khảo
+
+Project
+project
+dự án
+kinh nghiệm học tập
+projects
+
+Activity
+hoạt động
+activity
+activities
+
+Interests
+sở thích
+interests
+hobbies
+sở thích và hoạt động
+
+Reward
+reward
+giải thưởng
+thành tích
+achivement
+honors & wards
+awards
+
+Certificate
+certificate
+chứng chỉ
+certification
+
+Other
+thông tin thêm
+dự án khách hàng
+phẩm chất
+publication
+thêm thông tin
+ưu điểm
+ngôn ngữ
+phần mềm
+thông tin thêm
+trình độ chuyên môn
+điểm mạnh
+bằng cấp
+software platform
+summary
+extra trainning
+specialized abilities
